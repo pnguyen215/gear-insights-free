@@ -1,13 +1,24 @@
 {
     "cSpell.words": [
         "Actionid",
+        "Autocomedia",
+        "Autoforcerport",
+        "Chanobjecttype",
+        "Comedia",
         "Destexten",
         "Eventlist",
         "exten",
+        "Forcerport",
         "Holdtime",
+        "Ipaddress",
+        "Ipport",
         "Listitems",
+        "Objectname",
+        "Realtimedevice",
         "Servicelevel",
         "Servicelevelperf",
-        "Talktime"
+        "Talktime",
+        "Textsupport",
+        "Videosupport"
     ]
 }
