@@ -1,4 +1,17 @@
 {
-    "Destexten": "destination_exten",
-    "Actionid": "action_id"
+    "Eventlist": "event_list",
+    "Abandoned": "abandoned",
+    "Calls": "calls",
+    "Completed": "completed",
+    "Holdtime": "hold_time",
+    "Max": "max",
+    "Servicelevel": "service_level",
+    "Servicelevelperf" : "service_level_perf",
+    "Servicelevelperf2" : "Service_level_perf_2",
+    "Strategy" : "strategy",
+    "Talktime": "talk_time",
+    "weight": "weight",
+    "Listitems": "list_items",
+    "Location": "location",
+    "Name": "name"
 }
