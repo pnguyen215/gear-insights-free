@@ -162,5 +162,11 @@
     "Useptime": "use_ptime",
     "Usereqphone": "use_req_phone",
     "Voicemailextension": "voicemail_extension",
-    "Webrtc": "web_rtc"
+    "Webrtc": "web_rtc",
+    "Authtype": "auth_type",
+    "Md5cred": "md5_cred",
+    "Noncelifetime": "nonce_life_time",
+    "Password": "password",
+    "Realm": "realm",
+    "Username": "username"
 }
