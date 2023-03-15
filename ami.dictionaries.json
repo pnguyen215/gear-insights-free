@@ -168,5 +168,14 @@
     "Noncelifetime": "nonce_life_time",
     "Password": "password",
     "Realm": "realm",
-    "Username": "username"
+    "Username": "username",
+    "Authenticatequalify": "authenticate_qualify",
+    "Defaultexpiration": "default_expiration",
+    "Maxcontacts": "max_contacts",
+    "Maximumexpiration": "maximum_expiration",
+    "Minimumexpiration": "minimum_expiration",
+    "Qualifyfrequency": "qualify_frequency",
+    "Qualifytimeout": "qualify_timeout",
+    "Removeexisting": "remove_existing",
+    "Supportpath": "support_path"
 }
