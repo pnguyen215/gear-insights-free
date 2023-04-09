@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "Success",
+  "items": {
+    "summary": {
+      "link_github": "https://github.com/pnguyen215",
+      "link_linkedin": "https://www.linkedin.com/in/phuocnguyenit97/",
+      "account_email": "mailto:nguyenhuuphuocit97@gmail.com",
+      "work_phone": "0922014745"
+    }
+  }
+}
