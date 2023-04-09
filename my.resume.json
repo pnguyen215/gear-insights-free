@@ -5,7 +5,12 @@
     "code": 200
   },
   "items": {
-    "summary": {
+    "info": {
+      "full_name": "Nguyen Huu Phuoc",
+      "nickname": "Aris Nguyen",
+      "job_role": "Senior Developer"
+    },
+    "contact": {
       "link_github": "https://github.com/pnguyen215",
       "link_linkedin": "https://www.linkedin.com/in/phuocnguyenit97/",
       "account_email": "mailto:nguyenhuuphuocit97@gmail.com",
